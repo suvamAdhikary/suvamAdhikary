@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Im Suvam</h1>
+<h1 align="center">Hi 👋, Im Suvam Adhikary</h1>
 <br />
 
   <p align="center">
@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning MERN stack
 <!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with ... -->
+- 💬 Ask me about DSA and MERN Stack
+- 📫 How to reach me: adhikary.saheb408@gmail.com
+<!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
 <h1>Things I work with</h1>
