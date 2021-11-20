@@ -65,8 +65,9 @@ Here are some ideas to get you started:
     <img align="center" alt="suvamAdhikary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvamAdhikary&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=suvamAdhikary">
       <br/><br/>
-    <img align="center" title="🔥 suvamAdhikary's Streak" alt="suvamAdhikary's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suvamAdhikary&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img align="center" title="🔥 suvamAdhikary's Streak" alt="suvamAdhikary's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=suvamAdhikary&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D"/>
+    </a>	
+	
 </div>
 <br/>
 <div style="object-fit:cover;" align="center">
