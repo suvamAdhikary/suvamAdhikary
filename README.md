@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <br/>
 <div style="object-fit:cover;" align="center">
 <br/>
-  <a href="https://github.com/suvamAdhikary/github-readme-activity-graph"><img alt="Suvam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suvamAdhikary&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--   <a href="https://github.com/suvamAdhikary/github-readme-activity-graph"><img alt="Suvam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suvamAdhikary&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
 <br/>
 <img align="center" alt="rendering views" title="visisters to suvamAdhikary" src="https://visitor-badge.glitch.me/badge?page_id=suvamAdhikary">
