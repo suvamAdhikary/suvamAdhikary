@@ -44,23 +44,6 @@ Here are some ideas to get you started:
 </p>
 <br/>
 <br/>
-<!--  <h1>Connect Me</h1>
-<div align="center">
-  <a href="https://discordapp.com/users/">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
-  </a>
-  <a href="https://www.linkedin.com/in/suvam-adhikary/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
-  </a>  
-  <a href="">
-    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />  
-  </a>
-  <a href="">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
-  </a>
-</div>
-<br/>
-<br/> -->
 
 <h1>My Stats</h1>
 <div align="center">
@@ -74,7 +57,7 @@ Here are some ideas to get you started:
 <br/>
 <div style="object-fit:cover;" align="center">
 <br/>
-<!--   <a href="https://github.com/suvamAdhikary/github-readme-activity-graph"><img alt="Suvam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suvamAdhikary&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+
 <br/>
 <br/>
 <img align="center" alt="rendering views" title="visisters to suvamAdhikary" src="https://visitor-badge.glitch.me/badge?page_id=suvamAdhikary">
@@ -82,17 +65,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<!--  ### ⚙️ &nbsp;GitHub Analytics
- <div >
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=suvamAdhikary&show_icons=true&locale=en&layout=compact&theme=radical" alt="Suvam" width="380" /></p>
-
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=suvamAdhikary&show_icons=true&locale=en&theme=tokyonight" alt="Suvam" width="380" /></p>
-</div>
-
-<br/><br/><br/><br/>
-
-<br/><br/><br/><br/>
-<a href="https://github.com/suvamAdhikary/github-readme-activity-graph"><img alt="Suvam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suvamAdhikary&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/><br/>
 <h1></h1>
