@@ -46,21 +46,41 @@ Here are some ideas to get you started:
 <br/>
 
 <h1>My Stats</h1>
+
 <div align="center">
-    <img align="center" alt="suvamAdhikary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvamAdhikary&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=suvamAdhikary">
-      <br/><br/>
-    <img align="center" title="🔥 suvamAdhikary's Streak" alt="suvamAdhikary's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=suvamAdhikary&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D"/>
-    </a>	
+    <img align="center" alt="suvamAdhikary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvamAdhikary&langs_count=20&theme=react&hide_border=true&bg_color=0D1117" />
+	
+<br /><br />
+	
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suvamAdhikary&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+	
+<br /><br />
+	
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suvamAdhikary&show_icons=true&theme=tokyonight)
+
+<br />
+<br />
+	
+<h1 align="left" >🏆 Github Profile Trophy</h1>
+	
+<div align="center">
+	
+![Trophy](https://github-profile-trophy.vercel.app/?username=suvamAdhikary&theme=algolia)
+
+</div>
 	
 </div>
 <br/>
+
 <div style="object-fit:cover;" align="center">
+	
 <br/>
 
 <br/>
 <br/>
+	
 <img align="center" alt="rendering views" title="visisters to suvamAdhikary" src="https://visitor-badge.glitch.me/badge?page_id=suvamAdhikary">
+
 <br/>
 
 </div>
