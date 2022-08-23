@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 <h1>Things I work with</h1>
+
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
