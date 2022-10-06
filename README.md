@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about DSA and MERN Stack
-- 📫 How to reach me: adhikary.saheb408@gmail.com
+<-- - 📫 How to reach me: adhikary.saheb408@gmail.com -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
