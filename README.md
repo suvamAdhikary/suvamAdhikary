@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 <!--   <img alt="Boot Strap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="EJS" src="https://img.shields.io/badge/EJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
+<!-- <img alt="EJS" src="https://img.shields.io/badge/EJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" /> -->
 </p>
 <br/>
 <br/>
