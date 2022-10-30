@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 ... -->
-<!-- - 🔭 I’m currently working with ReactJs NextJs, ReduxSaga, NodeJs, MongoDB -->
+- 🔭 I’m currently working with ReactJs NextJs, ReduxSaga, NodeJs, MongoDB
 <!-- - 🌱 I’m currently learning Full-Stack Development -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
